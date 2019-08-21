@@ -1,2 +1,2 @@
-# greenblocks
+# GreenBlocks
 Next Generation Blockchain
